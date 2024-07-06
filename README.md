@@ -1,1 +1,1 @@
-# landing-page-html-and-CSS-
+This project showcases a landing webpage designed using HTML and CSS. It serves as a gateway to our online travel platform, providing users with essential information and inspiration for their next adventure. Whether you're planning a solo trip or a family vacation, our intuitive design and engaging content aim to guide and inspire your journey. Explore the world with us!
